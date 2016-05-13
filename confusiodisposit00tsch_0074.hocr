@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./confusiodisposit00tsch_0074.png"; bbox 0 0 1737 2995; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 129 96 1655 2455">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 129 96 1655 2455">
+     <span class='ocr_line' id='line_1_1' title="bbox 129 96 1655 2455; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 129 96 1655 2455; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 658 2547 1102 2611">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 658 2547 1102 2611">
+     <span class='ocr_line' id='line_1_2' title="bbox 658 2547 1102 2611; baseline -0.014 -1"><span class='ocrx_word' id='word_1_2' title='bbox 658 2547 1102 2611; x_wconf 75' lang='lat' dir='ltr'><em>CORDA.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 232 2641 1525 2776">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 232 2641 1525 2776">
+     <span class='ocr_line' id='line_1_3' title="bbox 232 2641 1525 2721; baseline 0 -19"><span class='ocrx_word' id='word_1_3' title='bbox 232 2657 326 2710; x_wconf 71' lang='lat' dir='ltr'>DA</span> <span class='ocrx_word' id='word_1_4' title='bbox 351 2649 483 2721; x_wconf 63' lang='lat' dir='ltr'>Soli,</span> <span class='ocrx_word' id='word_1_5' title='bbox 521 2652 604 2720; x_wconf 78' lang='lat' dir='ltr'>qui</span> <span class='ocrx_word' id='word_1_6' title='bbox 635 2651 775 2701; x_wconf 77' lang='lat' dir='ltr'>corda</span> <span class='ocrx_word' id='word_1_7' title='bbox 804 2654 925 2718; x_wconf 84' lang='lat' dir='ltr'>petit</span> <span class='ocrx_word' id='word_1_8' title='bbox 951 2683 965 2706; x_wconf 86' lang='lat'>‚</span> <span class='ocrx_word' id='word_1_9' title='bbox 1000 2653 1135 2700; x_wconf 82' lang='lat' dir='ltr'>COR</span> <span class='ocrx_word' id='word_1_10' title='bbox 1156 2681 1169 2703; x_wconf 90' lang='lat'>‚</span> <span class='ocrx_word' id='word_1_11' title='bbox 1203 2641 1396 2695; x_wconf 62' lang='lat' dir='ltr'>candide</span> <span class='ocrx_word' id='word_1_12' title='bbox 1420 2643 1525 2702; x_wconf 71' lang='lat' dir='ltr'><strong>Fili·</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 341 2715 1411 2776; baseline -0.007 -3"><span class='ocrx_word' id='word_1_13' title='bbox 341 2718 496 2773; x_wconf 59' lang='lat' dir='ltr'>Piffi&#39;tfis</span> <span class='ocrx_word' id='word_1_14' title='bbox 526 2739 680 2771; x_wconf 82' lang='lat' dir='ltr'>amore</span> <span class='ocrx_word' id='word_1_15' title='bbox 715 2724 807 2772; x_wconf 69' lang='lat' dir='ltr'>Dei</span> <span class='ocrx_word' id='word_1_16' title='bbox 831 2752 844 2776; x_wconf 86' lang='lat'>,</span> <span class='ocrx_word' id='word_1_17' title='bbox 880 2718 1075 2770; x_wconf 71' lang='lat' dir='ltr'>candide</span> <span class='ocrx_word' id='word_1_18' title='bbox 1101 2726 1111 2766; x_wconf 73' lang='grc' dir='ltr'>ζ</span> <span class='ocrx_word' id='word_1_19' title='bbox 1152 2715 1277 2766; x_wconf 67' lang='lat' dir='ltr'>tufus</span> <span class='ocrx_word' id='word_1_20' title='bbox 1303 2717 1411 2766; x_wconf 71' lang='lat' dir='ltr'>etis.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
